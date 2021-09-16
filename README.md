@@ -17,6 +17,7 @@
     <a href="https://github.com/othneildrew/Face-Detection-Python/issues">Request Feature</a>
   </p>
 </p>
+
 ---
 
 <!-- TABLE OF CONTENTS -->
@@ -40,6 +41,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -47,7 +49,7 @@
 
 ## About The Project
 
-This project is made in **cv2** and is a **Computer Vision** project. I am trying to become a computer vision expert and taking one step at a time in the right direction.
+This project is made in **cv2** and is a **Computer Vision** project. open cv is used to make most computer vision projects , it is very fast becuase it is made in c and can be used in python as python is becomming the languge of choise for data scientist, data analyst and computer vision experts
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -131,3 +133,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
     <br />
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMUnpopulur">
 </div>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Img Shields](https://shields.io)
+- [Opencv Documentation](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
