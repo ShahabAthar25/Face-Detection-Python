@@ -1,8 +1,22 @@
-<div align="center">
-    <h1>Face Detection App</h1>
-    <p>Made In Python</p>
-</div>
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Face-Detection-App">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Face Detection Python</h3>
+
+  <p align="center">
+    An awesome computer vision project
+    <br />
+    <a href="https://github.com/othneildrew/Face-Detection-Python"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Face-Detection-Python/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Face-Detection-Python/issues">Request Feature</a>
+  </p>
+</p>
 ---
 
 <!-- TABLE OF CONTENTS -->
@@ -109,3 +123,11 @@ Contributions are what make the open source community such an amazing place to l
 Your Name - [@your_twitter](https://twitter.com/MUnpopulur) - shahabathar25@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<div align="center">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/ShahabAthar25/Face-Detection-Python/total?style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ShahabAthar25/Face-Detection-Python?style=for-the-badge">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ShahabAthar25/Face-Detection-Python?style=for-the-badge">
+    <br />
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMUnpopulur">
+</div>
